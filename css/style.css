@@ -1,0 +1,19 @@
+span {
+  color: white;
+  cursor: pointer;
+  position: absolute;
+  right: 1rem;
+}
+
+p {
+  margin: 1vw auto;
+  background: red;
+  color: white;
+  font-size: 3vw;
+  padding: 0.5vw;
+  position: relative;
+}
+
+#create:hover {
+  cursor: pointer;
+}
