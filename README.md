@@ -1,4 +1,4 @@
-# To-Do List App
+# ToDoList-App
 
 ## Exercise Course-Module 3 - Intro Single Page Application (SPA) - HTML/CSS/JavaScript
 
